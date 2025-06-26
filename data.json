@@ -1,0 +1,33 @@
+{
+  "courses": [
+    {
+      "title": " Frontend Mastery",
+      "description": "Master React.js, hooks, and UI design for real-world apps.",
+      "level": "Advanced"
+    },
+    {
+      "title": "Python for Beginners",
+      "description": "Learn programming with easy Python lessons.",
+      "level": "Beginner"
+    },
+    {
+      "title": "Machine Learning Basics",
+      "description": "An introduction to machine learning concepts and tools.",
+      "level": "Intermediate"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "John Mwangi",
+      "bio": "Senior software engineer with 10 years in full-stack dev.",
+      "expertise": "Web Dev, React, Python",
+      "rating": 4.8
+    },
+    {
+      "name": "Dr. Mary Kimani",
+      "bio": "PhD in AI, researcher and data science trainer.",
+      "expertise": "Machine Learning, AI",
+      "rating":4.9
+}
+]
+}
