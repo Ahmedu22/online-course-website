@@ -2,7 +2,7 @@
   "courses": [
     {
       "title": " Frontend Mastery",
-      "description": "Master React.js, hooks, and UI design for real-world apps.",
+      "description": "Master React.js, Html, and  design for real-world apps.",
       "level": "Advanced"
     },
     {
@@ -11,23 +11,47 @@
       "level": "Beginner"
     },
     {
-      "title": "Machine Learning Basics",
-      "description": "An introduction to machine learning concepts and tools.",
+      "title": "Data Analysis Basics",
+      "description": "An introduction to Data analysis learning concepts and tools.",
       "level": "Intermediate"
+    },
+    {
+      "title": "Cyber security Advace",
+      "description": "Learn cyber security and ethical hacking.",
+      "level": "Advanced"
     }
   ],
   "mentors": [
     {
-      "name": "John Mwangi",
+      "name": "Ahmed Yusuf",
       "bio": "Senior software engineer with 10 years in full-stack dev.",
       "expertise": "Web Dev, React, Python",
       "rating": 4.8
     },
     {
-      "name": "Dr. Mary Kimani",
+      "name": "Dr.Abdi shakur yusuf",
       "bio": "PhD in AI, researcher and data science trainer.",
-      "expertise": "Machine Learning, AI",
+      "expertise": "Data Analysist, Machine Learning, AI",
       "rating":4.9
+},
+{
+  "name": "Ruqiyo",
+  "bio": "Cyper security expertise passionate about data privacy and ethical hacking",
+  "expertise": "cyber security and networking",
+  "rating" : 4.9
+},
+{
+  "name" : "Abdullahi D",
+  "bio" : "Mopile app devoloper specializing in android and Apple",
+  "expertise" : "Android studio and Aplle",
+  "rating" : 4.7
+},
+{
+  "name" : "Usame",
+  "bio" : "Develop engineers nad cloud instructer ",
+  "expertise": "Docker, CI/CD",
+  "rating": 4.8
 }
+
 ]
 }
