@@ -196,6 +196,6 @@ footer {
   }
 
   .search-bar {
-    flex-direction: column;
+    flex-direction:column;
 }
 }
